@@ -20,9 +20,9 @@ How to Run the Game
 
 1. Dependencies: Make sure you have Python 3 and the Pygame library installed. You can install Pygame by running:
 
-    Bash
-    
-    pip install pygame
+        Bash
+        
+        pip install pygame
 
 2. Assets: This game requires several external files (images and sounds). The following files must be in the same directory as the script:
 
