@@ -69,3 +69,5 @@ Code Details
 - Game Over: The game ends when any enemy reaches a certain vertical position (enemigo_y > 470), causing all enemies to disappear and the "GAME OVER" text to be displayed.
 
 - Function colision_detectada: This function is crucial for gameplay. It uses the math.sqrt() function to calculate the Euclidean distance between two points (the enemy and the missile). If this distance is less than a certain threshold, a collision is registered.
+
+"The code in this repository is based on lessons from Federico Garay's course."
